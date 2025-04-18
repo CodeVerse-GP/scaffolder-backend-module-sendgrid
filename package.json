@@ -1,6 +1,6 @@
 {
   "name": "@codeverse-gp/scaffolder-backend-module-sendgrid",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "license": "MIT",
   "description": "The sendgrid module for @backstage/plugin-scaffolder-backend",
   "main": "src/index.ts",
